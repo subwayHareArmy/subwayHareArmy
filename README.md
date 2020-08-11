@@ -2,5 +2,5 @@
 
 Personal blog / website - [http://subwayharearmy.github.io/](http://subwayharearmy.github.io/)
 
-- 🔭 I’m currently working on ... [DaanCorona](https://daancorona.tech)
-- 📫 How to reach me: ... [Twitter](https://twitter.com/AyushYembarwar)
+- 🔭 I’m currently working on: [DaanCorona](https://daancorona.tech)
+- 📫 How to reach me: [Twitter](https://twitter.com/AyushYembarwar)
