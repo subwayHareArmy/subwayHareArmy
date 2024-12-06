@@ -1,6 +1,6 @@
 ### just setting up my gthb
 
-Personal blog / website - [http://subwayharearmy.github.io/](http://subwayharearmy.github.io/)
+Personal blog / website - [https://yembarwar.com/](https://yembarwar.com)
 
 - 🔭 Currently an SDE at [AJIO](https://ajio.com)
 - 🔭 I’m currently working on: [DaanCorona](https://daancorona.tech)
